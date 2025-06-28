@@ -1,3 +1,12 @@
+
+
+#EDITAR KRITA
+
+
+Editar KRITA PARA INCLUIR IA GENERATIVA DE INTERPOLACIONES. 
+
+
+
 ![Picture](https://krita.org/images/krita-logo-light.svg)
 
 | CI Name     | Master | Stable | Release |
